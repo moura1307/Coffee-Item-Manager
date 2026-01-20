@@ -1,6 +1,6 @@
 name: CIM
-version: '1.0-SNAPSHOT'
-main: coffee.cIM.CIM
+version: '${project.version}'
+main: coffee.cIM.Main
 api-version: '1.21'
 authors: [ Coffee1307 ]
 description: Custom Item Manager

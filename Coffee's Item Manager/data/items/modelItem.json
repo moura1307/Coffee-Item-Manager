@@ -1,0 +1,17 @@
+{
+  "name": "name",
+
+  "craft_amount": 1,
+
+  "recipe": {
+    "pattern": [
+      "GEG",
+      "ESE",
+      "GEG"
+    ],
+    "G": "all_glass",
+    "S": "nether_star",
+    "E": "end_stone"
+  }
+
+}
